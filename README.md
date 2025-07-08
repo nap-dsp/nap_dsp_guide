@@ -10,7 +10,7 @@ https://www.iab.com/wp-content/uploads/2018/03/OpenRTB-Native-Ads-Specification-
 
 NAP DSP uses JSON and the HTTP POST method.
 
-If you have any question about this document, please reach out to adpacker@nasmedia.co.kr.  
+If you have any question about this document, please reach out to nap_dsp@nasmedia.co.kr.  
 <br>
 
 **Note**
