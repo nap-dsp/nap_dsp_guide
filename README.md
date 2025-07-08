@@ -1,14 +1,14 @@
-# Adpacker integration guide.
+# NAP DAP integration guide.
 
 
 
-This guide for integrating with Adpacker using OpenRTB 2.5(Native Ads 1.2).  
+This guide for integrating with NAP DAP using OpenRTB 2.5(Native Ads 1.2).  
 (Should there be missing fields or requirements, please default requirements to the spec itself.)
 
 https://www.iab.com/wp-content/uploads/2016/03/OpenRTB-API-Specification-Version-2-5-FINAL.pdf<br>
 https://www.iab.com/wp-content/uploads/2018/03/OpenRTB-Native-Ads-Specification-Final-1.2.pdf
 
-Adpacker uses JSON and the HTTP POST method.
+NAP DAP uses JSON and the HTTP POST method.
 
 If you have any question about this document, please reach out to adpacker@nasmedia.co.kr.  
 <br>
@@ -16,7 +16,7 @@ If you have any question about this document, please reach out to adpacker@nasme
 **Note**
 - Required fields must be included.
 - Recommended, Optional fields have positive impact on operations.
-- Adpacker extension fields are ![red](https://user-images.githubusercontent.com/56284426/144810848-2dfd3193-782d-4cfe-be98-42bc36ad878f.png) `red placeholder`.
+- NAP DAP extension fields are ![red](https://user-images.githubusercontent.com/56284426/144810848-2dfd3193-782d-4cfe-be98-42bc36ad878f.png) `red placeholder`.
 <br>
 
 # 1. Bid Request Specification
